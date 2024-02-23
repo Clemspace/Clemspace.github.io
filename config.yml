@@ -1,4 +1,4 @@
-baseURL: "https://clemspace.github.io/"
+baseURL: https://clemspace.github.io/
 title: Clément Castellon Personal Page
 paginate: 5
 #theme: PaperMod
