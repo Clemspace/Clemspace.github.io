@@ -1,7 +1,7 @@
 baseURL: "https://clemspace.github.io/"
 title: Clément Castellon Personal Page
 paginate: 5
-theme: PaperMod
+#theme: PaperMod
 theme: ["PaperMod"]
 enableRobotsTXT: true
 buildDrafts: false
@@ -78,11 +78,11 @@ params:
 
   socialIcons:
     - name: x
-      url: "https://x.com/"
+      url: "https://x.com/Clemspace"
     - name: stackoverflow
       url: "https://stackoverflow.com"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/Clemspace"
 
   analytics:
     google:
@@ -98,7 +98,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/<path_to_repo>/content"
+    URL: "https://github.com/Clemspace/Clemspace.github.io/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
