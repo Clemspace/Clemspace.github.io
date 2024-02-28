@@ -23,4 +23,13 @@ So naturally, we started finding areas of common interest to tackle. I really wa
 To really understand where to start, i stumbled upon this great [survey](https://arxiv.org/abs/2301.08727) ,with Frank Hutter as an author, one of the leading experts in the field, summing up very well what has been tried. And a very clear mapping of the problem space.
 
 
-## Frameworks or 
+
+
+# How about changing representation of the models?
+
+Using the sign of weights instead the full values is an interesting proposal for transfer learning, and allows for sparse neural networks knowledge transfer.
+
+## Frameworks as a sane code base
+
+I'm thinking of using Neural Network Intelligence framework, by Microsoft, to setup the experiment.
+
