@@ -9,7 +9,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-#googleAnalytics: UA-123-45
+googleAnalytics: GTM-PL76NDZ8
 
 minify:
   disableXML: true
@@ -72,7 +72,7 @@ params:
 
   analytics:
     google:
-      SiteVerificationTag: "XYZabc"
+      SiteVerificationTag: "GTM-PL76NDZ8"
     bing:
       SiteVerificationTag: "XYZabc"
     yandex:
