@@ -11,8 +11,8 @@ buildExpired: false
 
 
 minify:
-  disableXML: true
-  minifyOutput: true
+  disableXML: false
+  minifyOutput: false
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
@@ -69,11 +69,11 @@ params:
     - name: github
       url: "https://github.com/Clemspace"
 
-  googleAnalytics: "G-990NN2DZ4S"
+  googleAnalytics: G-990NN2DZ4S
 
   analytics:
     google:
-      SiteVerificationTag: "G-990NN2DZ4S"
+      SiteVerificationTag: 7580989747
     bing:
       SiteVerificationTag: "XYZabc"
     yandex:
